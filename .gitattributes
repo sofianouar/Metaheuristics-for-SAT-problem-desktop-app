@@ -1,1 +1,2 @@
 *.jar linguist-detectable=true
+*.jar linguist-language=Java
