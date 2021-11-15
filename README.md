@@ -14,5 +14,5 @@ My teammate :
   KARA ABDELKADER https://github.com/Kidnard/
   
 # Information
-If you need the code of this project please email one of these adresses precising the need and the use : 
-        soffianouar@gmail.com / abdelkaderkaramehdi@gmail.com /rahalabdelhamid@gmail.com
+If you need the code of this project please email one of these adresses precising the need : 
+        soffianouar@gmail.com / abdelkaderkaramehdi@gmail.com / rahalabdelhamid@gmail.com
