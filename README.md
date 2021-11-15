@@ -16,5 +16,3 @@ My teammate :
 # Information
 If you need the code of this project please email one of these adresses precising the need and the use : 
         soffianouar@gmail.com / abdelkaderkaramehdi@gmail.com /rahalabdelhamid@gmail.com
-# to change language of repo from Javascript to Python
-    *.jar linguist-language=Java
