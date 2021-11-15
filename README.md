@@ -6,7 +6,9 @@ To facilitate the use, we implemented a java interface to interact with.
 (For further details please check report.pdf)
 
 # How to use the project
-To run the project, firstly you need to configure a java runtime environment then you should pull it into your local workspace and double clic on it.
+To run the project, firstly you need to configure a java runtime environment,
+METHOD 1 : download the "jar file version" and run it easily.
+METHOD 2 : you can access the "CODE SOURCE VERSION", you see that yu have all the classes and algorithms. To execute it go to src>gui>main.java
 
 # Credits
 My teammate : 
@@ -14,5 +16,5 @@ My teammate :
   KARA ABDELKADER https://github.com/Kidnard/
   
 # Information
-If you need the code of this project please email one of these adresses precising the need : 
+contact : 
         soffianouar@gmail.com / abdelkaderkaramehdi@gmail.com / rahalabdelhamid@gmail.com
